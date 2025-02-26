@@ -1,0 +1,9 @@
+   2 python file.py
+   3 rm file.py
+   4 git init
+   5 python file.py
+   6 git status
+   7 git add file.py
+   8 git status
+   9 git commit -m "this is new commit"
+  10 git status
