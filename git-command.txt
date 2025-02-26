@@ -12,3 +12,7 @@
   13 git remote set url
   git push origin master
   git pull origin master
+
+
+
+This is some new changes where in remote
