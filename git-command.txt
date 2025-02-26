@@ -7,3 +7,8 @@
    8 git status
    9 git commit -m "this is new commit"
   10 git status
+  11 git remote -v
+  12 git remote add origin
+  13 git remote set url
+  git push origin master
+  git pull origin master
